@@ -27,16 +27,16 @@ El Blackjack es un juego de cartas en el que el objetivo es obtener una mano con
 
 ### 📥 Instalación y ejecución
 
-1. Clona este repositorio o descarga el script:
+1. Clona el repositorio con `git clone` o descárgalo a través de `wget`.
    ```sh
-   git clone https://github.com/tu-usuario/Blackjack-Bash.git
-   cd Blackjack-Bash
+   git clone https://github.com/asenabre03/simpleBlackjack.git
+   wget https://github.com/asenabre03/simpleBlackjack/archive/refs/heads/main.zip
    ```
-2. Otorga permisos de ejecución al script:
+2. Otorga permisos de ejecución al script.
    ```sh
-   chmod +x blackjack.sh
+   chmod +x simpleBlackjack.sh
    ```
-3. Ejecuta el juego con:
+3. Ejecuta el juego con `./`.
    ```sh
    ./blackjack.sh
    ```
