@@ -42,16 +42,3 @@ El Blackjack es un juego de cartas en el que el objetivo es obtener una mano con
    ```
 
 ---
-
-## 🃏 Funcionamiento del script
-
-El script **blackjack.sh** sigue estos pasos:
-
-1. Se inicializan las cartas y los palos.
-2. Se reparten **dos cartas** al jugador y al dealer.
-3. El jugador decide si **pide carta** o **se planta**.
-4. Si el jugador no se ha pasado de 21, el dealer juega su turno.
-5. Se comparan las manos y se declara un ganador.
-6. Se ofrece la opción de volver a jugar.
-
----
