@@ -38,5 +38,5 @@ El Blackjack es un juego de cartas en el que el objetivo es obtener una mano con
    ```
 3. Ejecuta el juego con `./`.
    ```sh
-   ./blackjack.sh
+   ./simpleBlackjack.sh
    ```
